@@ -77,8 +77,7 @@ At 2.00x: 02:05:00
 ---
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
+- This project is licensed under the Unlicense, placing it in the public domain. See the [LICENSE](LICENSE) file for details.
 ---
 
 ## Contributing
